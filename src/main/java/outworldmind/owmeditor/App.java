@@ -1,4 +1,4 @@
-package owmeditor;
+package outworldmind.owmeditor;
 
 import java.util.stream.IntStream;
 
@@ -19,12 +19,12 @@ import outworldmind.owme.graphics.TextureBuilder;
 import outworldmind.owme.maths.Color;
 import outworldmind.owme.maths.Rotation;
 import outworldmind.owme.maths.Vector3;
-import outworldmind.owme.shaders.EntityShader;
 import outworldmind.owme.tools.modelUtils.BoxGeometryBuilder;
 import outworldmind.owme.tools.modelUtils.objLoader.OBJModelLoader;
 import outworldmind.owme.units.Camera;
 import outworldmind.owme.units.DrawUnit;
 import outworldmind.owme.units.Scene;
+import outworldmind.owmeditor.shaders.EntityShader;
 
 public class App {
 	
